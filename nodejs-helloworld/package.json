@@ -6,7 +6,5 @@
   "scripts": { "start": "node app.js" },
   "author": "Red Hat Training",
   "license": "ASL",
-  "dependencies": {
-    "express": "4.14.X"
-  }
+  "dependencies": { "express": "4.14.X" }
 }
